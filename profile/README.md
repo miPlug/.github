@@ -1,27 +1,34 @@
 # miPlug
 
-A Helsinki-based studio building AI-native web products, configurators and website migrations.
-We build on Lovable with an AI-first stack and ship fast, from prototype to production.
+A Helsinki-based studio building AI-native web products, configurators and website migrations. Everything we make is built with an AI-first stack and shipped fast, from prototype to production.
 
-### Products
+Right now we're focused on making website migration fully AI-automated with [Sitejump](https://sitejump.dev).
 
-- **[Sitejump](https://sitejump.dev)** – Move websites into the AI era. A free audit of any site, then a migration and upgrade package that your AI builder, such as Lovable, Claude, Cursor or Replit, rebuilds from via MCP.
-- **[Jemaa](https://miplug.net/products)** – A conversation-based AI audio studio for personal podcasts, audiobooks and briefings. *Beta.*
-- **[Dlemma](https://miplug.net/products)** – A social opinion and decision-sharing network for everyday and big choices. *Beta.*
-- **[Happens](https://miplug.net/products)** – A modern event discovery platform powered by AI agent crawlers. *Beta.*
-- **[PanicBuddy](https://miplug.net/products)** – An AI companion that helps people cope with stress and anxious feelings. *Beta.*
+### Projects
+
+- **Sitejump** – Move websites into the AI era. A free audit of any site, then a migration and upgrade package (every page, translation, image, redirect and SEO/GEO fix) that your AI builder, such as Lovable, Claude, Cursor or Replit, rebuilds from via MCP.
+- **Jemaa** – A conversation-based AI audio studio for personal podcasts, audiobooks and briefings.
+- **Dlemma** – A social opinion and decision-sharing network for everyday and big choices.
+- **Happens** – A modern event discovery platform powered by AI agent crawlers.
+- **PanicBuddy** – An AI companion that helps people cope with stress and anxious feelings.
+- **Napalm Custom** – A headless Lovable x Shopify store with a 3D skateboard configurator: build your own custom skateboard and buy it right there.
 
 ### Services
 
-We build the same way for clients: websites, web apps and internal tools on Lovable, handed over clean.
+We build the same way for clients: websites, web apps and internal tools, handed over clean.
 
-- Website migrations into AI builders, with rankings protected and SEO/GEO upgraded
-- 3D and B2B product configurators
-- AI-powered web apps and internal tools, from idea to launch
+- **Website migrations** into AI builders such as Lovable, Claude, Cursor and Replit, with rankings protected and SEO/GEO upgraded
+- **Headless commerce**: Shopify storefronts, Stripe payments and 3D product configurators
+- **AI assistants and internal tools** grounded in your own company knowledge and connected to your CRM
+- **AI-native web apps**, from idea to launch, in as many languages as you need
 
 ### Stack
 
-Lovable · Claude · TypeScript · React · Supabase · Vercel
+[Lovable](https://lovable.dev) · [Claude](https://claude.ai) · [Claude Code](https://www.anthropic.com/claude-code) · [Cursor](https://cursor.com) · [TypeScript](https://www.typescriptlang.org) · [React](https://react.dev) · [Supabase](https://supabase.com) · [Stripe](https://stripe.com) · [Shopify](https://www.shopify.com) · [Vercel](https://vercel.com) · [Netlify](https://www.netlify.com) · [HubSpot](https://www.hubspot.com)
+
+### Team
+
+Founded and led by [Kari Levänen](https://github.com/karilevanen).
 
 ### Contact
 
